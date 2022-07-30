@@ -169,7 +169,7 @@ class location{
         this._spot=place;
     }
     set spot(place){
-        this._spot= x;
+        this._spot= place;
     }
 }
 let myPlace = new location('Enugu');
